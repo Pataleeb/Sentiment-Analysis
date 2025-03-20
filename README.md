@@ -7,7 +7,8 @@ Let's consider two test messages. "I experience this movie" and "Best day of my 
 
 Using below training messages let's try to classify above two messages.
 
-Positive messages: I love this movie, Such an amazing experience, Best day of my life
+Positive messages: I love this movie, Such an amazing experience, Best day of my life.
+
 Negative messages: This movie is terrible, I hate this product, Worst service ever, Such a bad experience 
 
 
